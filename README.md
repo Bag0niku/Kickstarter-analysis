@@ -1,5 +1,4 @@
-### Performing analysis on Kickstarter data to uncover trends
-
+# Kickstarter Analysis
 
 
 ## Overview of Project
@@ -31,7 +30,7 @@ The data suggests May and June are the best times to launch a campaign because m
 
 
 ### Analysis of Outcomes Based on Goals
-![](./Outcomes_vs_Goals.Png)
+![](./Outcomes_vs_Goals.png)
 There seems to be some correlation between a projects' goals and their success, but not enough to draw any solid conclusions other than 1) less than $5,000 has the highest chance of success and 2) to stay below $45k.
 
 
@@ -63,4 +62,4 @@ Launch the funding campaign in May or June for the anticipated budget and use Ki
   - Could compare the length of the campaigns versus their outcome and staring month.
 
 - What are some limitations of this dataset? 
-  - This is very general information I would like more granular data. For Example: How many pledge levels and their dollar value amounts, the number of backers for those pledge levels, how many backers pledged each day and what day in the length of the campaign did the project become successful. With those we'd be able to find the best price points of pledge levels for Louise's funding campaign and have a better view of how visible different campaigns are.
+  - This is very general information and I would like more granular data. For Example: How many pledge levels and their dollar value amounts, the number of backers for those pledge levels, how many backers pledged each day and what day in the length of the campaign did the project become successful. With those we'd be able to find the best price points of pledge levels for Louise's funding campaign and have a better view of how visible different campaigns are.
